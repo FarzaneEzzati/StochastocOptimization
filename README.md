@@ -2,7 +2,7 @@
 Here you can find codes for stochastic problems solved by GUROBI/Python interface.
 ** Having 'gurobipy' installed for Python interface is necessary.
 
-# SP-MonteCarloApproximation
+## SP-MonteCarloApproximation
 Problem: A company would like to determine the number of phisical servers type 1,2,3 that must be purchased right now. After the realization of monthly demand, virtual servers can handle the demand as well as physical ones. The company wants to determine the total number of physical and virtual servers of each type that need to be purchased.
 The distribution of demand is normal with parameters N1(75,8), N2(8,3), N3(18,2).
 Each server is used for only one unit of demand.
