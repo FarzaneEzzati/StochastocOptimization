@@ -11,3 +11,7 @@ The cost of each virtual server is 8,20,33. The investment cost for each physica
 A simple MonteCarlo approximation is used to create 100 scenarios.
 
 Note that after the realization of demand, y can be chosen so that the whole demand is covered.
+
+## L-Shaped Method
+Read the pdf file named L-ShapedMethod to get the steps of the algorithm and an example problem used in the code.
+
